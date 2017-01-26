@@ -1,0 +1,26 @@
+
+.logos {
+width: 200px;
+height: 200px;
+
+}
+
+.stockpic {
+  width: 1200px;
+  height: 800px;
+}
+
+.background {
+  background-color: white;
+  opacity: .65;
+  border-radius: 5%;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: hotpink;
+}
